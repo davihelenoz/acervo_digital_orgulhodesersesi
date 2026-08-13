@@ -1,0 +1,6 @@
+{
+  "name": "BookSwap",
+  "description": "Sistema de gerenciamento de biblioteca simples e intuitivo com dashboard, livros e empréstimos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
