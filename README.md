@@ -67,7 +67,7 @@ Dessa forma, o processo de cadastro, consulta, empréstimo e devolução dos liv
 
 ### 🌐 Projeto
 
-[🔗 Acessar o Acervo Digital](COLOQUE_O_LINK_AQUI)
+[🔗 Acessar o Acervo Digital](https://bookswap.ai.studio)
 
 ### 🖼️ Imagens do Projeto
 
