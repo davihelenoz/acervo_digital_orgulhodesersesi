@@ -1,98 +1,92 @@
-# <h1 align="center">📚 Acervo Digital</h1>
+<h1 align="center">📚 Acervo Digital</h1>
 
 <p align="center">
-  <strong>Projeto desenvolvido por estudantes da instituição SESI Paulista</strong>
+  Projeto desenvolvido por estudantes da instituição <strong>SESI Paulista</strong>
 </p>
 
 <p align="center">
-  Uma plataforma digital para organização, consulta e gerenciamento de livros e materiais do acervo escolar.
+  Sistema digital para organização, consulta e gerenciamento do acervo escolar.
 </p>
 
 ---
 
-## 📖 Sobre o projeto
+## 📌 Descrição do Projeto
 
-O **Acervo Digital** é um sistema desenvolvido por estudantes do **SESI Paulista** com o objetivo de facilitar o acesso e a organização do acervo da instituição.
+O **Acervo Digital** é um projeto desenvolvido por estudantes do **SESI Paulista** com o objetivo de modernizar o gerenciamento do acervo de livros da instituição.
 
-A plataforma permite centralizar informações sobre os livros disponíveis, tornando a consulta mais prática para os alunos e facilitando o gerenciamento do acervo pela instituição.
+Anteriormente, o controle dos livros, empréstimos e devoluções era realizado de **forma manual**, tornando o processo mais demorado e dificultando o acompanhamento dos materiais disponíveis e daqueles que estavam emprestados.
 
-## 🎯 Objetivos
+Como solução, foi desenvolvida uma plataforma digital que centraliza as informações do acervo e permite que alunos e bibliotecários realizem suas atividades de forma mais prática, organizada e eficiente.
 
-* 📚 Digitalizar e organizar o acervo da instituição;
-* 🔎 Facilitar a busca e consulta de livros;
-* 👨‍🎓 Permitir que alunos visualizem os livros disponíveis;
-* 👨‍🏫 Facilitar o gerenciamento do acervo;
-* 💻 Desenvolver uma solução tecnológica para uma necessidade real da instituição.
+## 🎯 Problema
+
+O gerenciamento manual do acervo apresentava algumas dificuldades:
+
+* 📋 Controle realizado manualmente;
+* 🔎 Dificuldade para consultar os livros disponíveis;
+* 📚 Dificuldade para acompanhar quais livros estavam emprestados;
+* 👤 Dificuldade para identificar com quem determinado livro estava;
+* ⏱️ Processo de registro de empréstimos e devoluções mais demorado;
+* ⚠️ Maior possibilidade de erros nos registros.
+
+## 💡 Solução
+
+O **Acervo Digital** centraliza todas essas informações em uma única plataforma.
+
+O sistema possui diferentes níveis de acesso, permitindo que **alunos consultem os livros disponíveis**, enquanto **bibliotecários gerenciem o acervo e os empréstimos**.
+
+Dessa forma, o processo de cadastro, consulta, empréstimo e devolução dos livros pode ser realizado de maneira digital e organizada.
 
 ## ✨ Funcionalidades
 
-* [ ] Cadastro de alunos
-* [ ] Cadastro de professores
-* [ ] Cadastro de livros
-* [ ] Consulta de livros disponíveis
-* [ ] Busca por livros
-* [ ] Gerenciamento do acervo
-* [ ] Sistema de autenticação
-* [ ] Controle de empréstimos
-* [ ] Histórico de empréstimos
+### 👨‍🎓 Para alunos
 
-## 🛠️ Tecnologias utilizadas
+* 👤 Cadastro de aluno;
+* 🔎 Visualização dos livros disponíveis;
+* 📖 Consulta das informações dos livros;
+* 📚 Acesso ao acervo de forma digital.
 
-> Esta seção pode ser atualizada conforme o desenvolvimento do projeto.
+### 📚 Para bibliotecários
 
-* **Frontend:** ...
-* **Backend:** ...
-* **Banco de dados:** ...
-* **Design/Protótipo:** ...
-* **Versionamento:** Git / GitHub
+* 👤 Cadastro de bibliotecário;
+* 📕 Cadastro de livros;
+* ✏️ Gerenciamento das informações dos livros;
+* 🔎 Consulta e visualização do acervo;
+* 📋 Controle dos livros em circulação;
+* 👥 Identificação do aluno que está com cada livro;
+* 📤 Registro de empréstimos;
+* 📥 Registro de devoluções;
+* 📊 Acompanhamento dos livros disponíveis e emprestados.
 
-## 🖥️ Interface
+## 🛠️ Tecnologias Utilizadas
 
-### Tela inicial
+* **Google AI Studio** — utilizado no desenvolvimento da aplicação;
+* **GitHub** — utilizado para armazenamento e versionamento do projeto.
 
-> Adicione aqui uma imagem ou GIF da interface do sistema.
+## 🔗 Links e Materiais
 
-## 🚀 Como executar o projeto
+### 🌐 Projeto
 
-### 1. Clone o repositório
+[🔗 Acessar o Acervo Digital](COLOQUE_O_LINK_AQUI)
 
-```bash
-git clone URL_DO_REPOSITORIO
-```
+### 🖼️ Imagens do Projeto
 
-### 2. Acesse a pasta
+> Adicione aqui prints das principais telas da aplicação.
 
-```bash
-cd acervo-digital
-```
+![Tela inicial](CAMINHO_DA_IMAGEM)
 
-### 3. Instale as dependências
+![Tela de livros](CAMINHO_DA_IMAGEM)
 
-```bash
-COMANDO_DE_INSTALACAO
-```
+![Tela de gerenciamento](CAMINHO_DA_IMAGEM)
 
-### 4. Execute o projeto
+## 👥 Integrantes
 
-```bash
-COMANDO_DE_EXECUCAO
-```
-
-## 👥 Equipe
-
-Projeto desenvolvido por estudantes do **SESI Paulista**.
-
-### Desenvolvedores
-
-* Davi Heleno — Back-End
-* Josué Rodrigues — Front-End
-* Heberton — Banco de dados
-
-## 📌 Status do projeto
-
-🟡 **Em desenvolvimento**
-
-Novas funcionalidades e melhorias serão adicionadas ao longo do desenvolvimento do projeto.
+| Integrante         | Função          |
+| ------------------ | --------------- |
+| Nome do integrante | Desenvolvimento |
+| Nome do integrante | Desenvolvimento |
+| Nome do integrante | Desenvolvimento |
+| Nome do integrante | Desenvolvimento |
 
 ---
 
