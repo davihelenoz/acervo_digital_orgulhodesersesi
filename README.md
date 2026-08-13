@@ -69,16 +69,6 @@ Dessa forma, o processo de cadastro, consulta, empréstimo e devolução dos liv
 
 [🔗 Acessar o Acervo Digital](https://bookswap.ai.studio)
 
-### 🖼️ Imagens do Projeto
-
-> Adicione aqui prints das principais telas da aplicação.
-
-![Tela inicial](CAMINHO_DA_IMAGEM)
-
-![Tela de livros](CAMINHO_DA_IMAGEM)
-
-![Tela de gerenciamento](CAMINHO_DA_IMAGEM)
-
 ## 👥 Integrantes
 
 | Integrante         |
