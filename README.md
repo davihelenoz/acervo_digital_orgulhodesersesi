@@ -84,9 +84,9 @@ Projeto desenvolvido por estudantes do **SESI Paulista**.
 
 ### Desenvolvedores
 
-* Nome do estudante — Função
-* Nome do estudante — Função
-* Nome do estudante — Função
+* Davi Heleno — Back-End
+* Josué Rodrigues — Front-End
+* Heberton — Banco de dados
 
 ## 📌 Status do projeto
 
