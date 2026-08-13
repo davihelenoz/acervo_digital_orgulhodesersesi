@@ -81,12 +81,11 @@ Dessa forma, o processo de cadastro, consulta, empréstimo e devolução dos liv
 
 ## 👥 Integrantes
 
-| Integrante         | Função          |
-| ------------------ | --------------- |
-| Nome do integrante | Desenvolvimento |
-| Nome do integrante | Desenvolvimento |
-| Nome do integrante | Desenvolvimento |
-| Nome do integrante | Desenvolvimento |
+| Integrante         |
+| ------------------ |
+| Davi Heleno |
+| Josué Rodrigues |
+| Heberton Hedjo |
 
 ---
 
